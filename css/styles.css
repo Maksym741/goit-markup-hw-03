@@ -127,10 +127,10 @@ img {
 /*?-------------------Hero-------------------*/
 .first-page {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 
 .hero-container {
-  padding: 188px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -285,8 +285,8 @@ img {
 }
 
 .portfolio-card{
-border-top: none;
 border: 1px solid  #E7E9FC;
+border-top: none;
 padding: 32px 16px;
 }
 
@@ -315,6 +315,7 @@ padding: 32px 16px;
 
 .logo-footer{
   display: inline-block;
+  margin-bottom: 16px;
 }
 
 .logo-studio-footer {
@@ -327,6 +328,5 @@ padding: 32px 16px;
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
-  padding-top: 16px;
 }
 /*?-----------------------------------------*/
